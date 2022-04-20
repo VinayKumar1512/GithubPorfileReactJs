@@ -1,0 +1,21 @@
+.header-container {
+  font-family: sans-serif;
+  border-bottom: 1px solid gray;
+  height: 70px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  text-decoration: none;
+  color: gray;
+  font-size: 15px;
+}
+.icon {
+  margin-right: 0.8rem;
+}

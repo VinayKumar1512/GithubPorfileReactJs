@@ -1,0 +1,46 @@
+.repo-container {
+  width: 32%;
+  text-align: left;
+  margin-top: 2rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+.card {
+  padding: 1.2rem;
+  border: 1px solid hsl(0, 0%, 50%);
+  border-radius: 7px;
+  height: 125px;
+}
+.upper-part {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+}
+
+.public {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 2px;
+}
+.detail {
+  font-size: 12px;
+  color: gray;
+  text-align: left;
+}
+.lang {
+  float: left;
+  display: flex;
+  margin-top: 0.8rem;
+  font-size: 13px;
+  margin-top: 2rem;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: rgb(245, 70, 70);
+  border-radius: 50%;
+  margin-right: 0.2rem;
+}
